@@ -1,9 +1,6 @@
 # tabletoolstoolbar
 A plugin for CKEditor 4, that add toolbar's groups with buttons relevant to [tabletools plugin's](http://ckeditor.com/addon/tabletools) table's context menu items actions.
-
-#tabletoolstoolbar
-
-A plugin for CKEditor 4, that add toolbar groups with buttons relevant to tabletools plugin table context menu items actions.
+![tabletoolstoolbar](images/tabletoolstoolbar.png)
 
 ## Toolbar's groups and buttons
 - table - contains buttons for work with tables
@@ -51,8 +48,4 @@ For more info please read [official toolbar configuration guide](http://docs.cke
 Icons (some with partial changes)from ["Farm-Fresh Web Icons"](http://www.fatcow.com/free-icons).
 
 ## Licence
-[MIT License](LICENSE) (https://tldrlegal.com/license/mit-license).
-
-## Acknowledgment
-
-Plugin creation sponsored by [Coursenta - service development e-learning courses](http://coursenta.ru/).
+[MIT License](https://tldrlegal.com/license/mit-license).
