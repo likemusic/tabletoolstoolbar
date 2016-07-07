@@ -48,5 +48,10 @@ For more info please read [official toolbar configuration guide](http://docs.cke
 ## Third-party components
 Icons (some with partial changes)from ["Farm-Fresh Web Icons"](http://www.fatcow.com/free-icons).
 
+## TODO
+- Finish (add test by contribution guide) - https://github.com/ckeditor/ckeditor-dev/pull/279
+- Push rename Vertical/Horizontal split translated to Russia ("Разрезать вертикально" вместо "Разделить по вертикали").
+- Change split/merge icons to something more comprehensible.
+
 ## Licence
 [MIT License](https://tldrlegal.com/license/mit-license).
